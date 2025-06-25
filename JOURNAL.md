@@ -13,7 +13,7 @@ Created_at: "2025-06-25"
 
 
 
-**Inspired by this, I have decided to turn this box into a little personal computer cyberdeck thing. From the looks of things it shouldn't be too hard to fit a raspberry pi 5, a custom ~50% keyboard, a battery and a 7" screen in this, maybe even a speaker we'll see.**
+**Inspired by this, I have decided to turn this box into a little personal computer cyberdeck thing. From the looks of things it shouldn't be too hard to fit a raspberry pi 5, a custom ~50% keyboard, a battery and a 7" screen in this, maybe even a speaker, we'll see.**
 
 ![IMG_8443](https://github.com/user-attachments/assets/eab4b392-5da6-429c-8c8f-80e3b0d85a59)
 
@@ -25,5 +25,5 @@ Created_at: "2025-06-25"
 ![Screenshot From 2025-06-25 21-33-12](https://github.com/user-attachments/assets/f81db2e8-68ff-4bb6-beae-5d34ec129f85)
 
 
-### Total time **~6h**
+### Total time ~6h
 
