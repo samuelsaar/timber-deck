@@ -5,7 +5,7 @@ Description: "A compact arm based personal computer with a custom keyboard built
 Created_at: "2025-06-25"
 ---
 
-## 25-06-2025
+# 25-06-2025 - Idea and Inital Design
 
 **I stumbled on an old Soviet era wooden box which, originally probably used for storing lab equipement, happenes to now have just enough room to house a small 5 row keyboard.**
 
@@ -13,15 +13,17 @@ Created_at: "2025-06-25"
 
 
 
-**Inspired by this, I have decided to turn this box into a little personal computer cyberdeck thing. From the looks of things it shouldn't be too hard to fit a raspberry pi 5, a ~50% keyboard, a battery and a 7" screen in this box.**
+**Inspired by this, I have decided to turn this box into a little personal computer cyberdeck thing. From the looks of things it shouldn't be too hard to fit a raspberry pi 5, a custom ~50% keyboard, a battery and a 7" screen in this, maybe even a speaker we'll see.**
 
 ![IMG_8443](https://github.com/user-attachments/assets/eab4b392-5da6-429c-8c8f-80e3b0d85a59)
 
 
 
-**Today was mostly spent modelling and experimenting with different designs in Blender.**
+**Today was mostly spent modelling and experimenting with different concepts in Blender. The dimensions of things is roughly correct, but it's far from a functional design.**
 
 ![Screenshot From 2025-06-23 10-08-59](https://github.com/user-attachments/assets/9e03b1c5-d571-4bc1-9e4c-d81140613740)
 ![Screenshot From 2025-06-25 21-33-12](https://github.com/user-attachments/assets/f81db2e8-68ff-4bb6-beae-5d34ec129f85)
 
+
+### Total time **~6h**
 
