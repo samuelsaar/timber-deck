@@ -34,3 +34,7 @@ Created_at: "2025-06-25"
 **The power situation seems a bit more complicated than I initally figured as the Pi 5 needs 5V 5A over USB-C, while it is a standard that exists, it isn't one that anyone uses... Going with a power bank that can output 25W at a higher voltage and then using a buck converter to get it down to 5V 5A seems to be the simplest and most economical option. There are also some UPS HATs that take 18650 cells and output 5V 5A, those might also be worth considering.**
 
 ### Total time ~1h
+
+# 26-06-2025 - Power, Sound
+
+
