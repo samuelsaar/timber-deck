@@ -35,6 +35,17 @@ Created_at: "2025-06-25"
 
 ### Total time ~1h
 
-# 26-06-2025 - Power, Sound
+# 26-06-2025 - Power, Sound and Headache
 
+I spent the day trying to figure out a final power and sound solution. I think I have the power pretty much figured out - a waveshare UPS that takes 3 18650 cells, it's fairly cheap, compact and it can be monitored from the Pi through GPIO pins. Sound is a bit more complicated as I want to have both, a built-in mono speaker and a stereo headphone jack. My current idea is to go with a small USB DAC (I should already have one somewhere) and wire it to both, the headphone out and the speaker amp. Then I'd power the amp from another usb port and have a hardware switch that can cut off the power to the amp. 
+
+![Screenshot From 2025-06-28 00-16-09-min](https://github.com/user-attachments/assets/4d108004-927a-43cb-934a-646176d4c377)
+![Screenshot From 2025-06-28 00-17-26-min](https://github.com/user-attachments/assets/c50f9d83-a536-4b89-ab9a-aa74fde0862e)
+
+All this should work in theory, but now I have another small problem - I've run out of USB ports. I have one occupied by the DAC, another powering the amp, third powering the display and the last one is wired to the keyboard. I would like to have at the very least one usb port wired as the deck's external I/O. So I'll probably have to incorporate a usb hub in this build as well...
+
+![Screenshot From 2025-06-28 00-11-12](https://github.com/user-attachments/assets/746b9f9b-5e03-43f5-8073-04f3e7e74a04)
+
+
+### Total time ~4h
 
