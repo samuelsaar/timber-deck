@@ -27,7 +27,7 @@ Created_at: "2025-06-25"
 
 ### Total time ~6h
 
-# 26-06-2025 - Not much
+# 26-06-2025 - How Power?
 
 **Had a lot of other stuff going on so couldn't work on the project much. I researched my options for power and display and started making a bill of materials.**
 
