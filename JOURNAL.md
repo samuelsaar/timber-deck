@@ -35,7 +35,7 @@ The power situation seems a bit more complicated than I initally figured as the 
 
 ### Total time ~1h
 
-# 26-06-2025 - Power, Sound and Headache
+# 27-06-2025 - Power, Sound and Headache
 
 I spent the day trying to figure out a final power and sound solution. I think I have the power pretty much figured out - a waveshare UPS that takes 3 18650 cells, it's fairly cheap, compact and it can be monitored from the Pi through GPIO pins. Sound is a bit more complicated as I want to have both, a built-in mono speaker and a stereo headphone jack. My current idea is to go with a small USB DAC (I should already have one somewhere) and wire it to both, the headphone out and the speaker amp. Then I'd power the amp from another usb port and have a hardware switch that can cut off the power to the amp. 
 
@@ -48,4 +48,8 @@ All this should work in theory, but now I have another small problem - I've run 
 
 
 ### Total time ~4h
+
+# 28-06-2025 - Finalizing Part Choices, 3D Printer Parts Design
+
+The audio setup should now be pretty much set. I chose a different driver due to the old one being way too expensive with shipping. I also figured that I don't need to worry about the speaker amp taking up a USB port as I can just get 5V from the Pi GPIO. I also picked out the display I'm going to use. It's a QLED IPS panel from Waveshare, a pricier option as far as 7" panels go, but it's the cheapest option I've found with a half decent color gamut. Also, Waveshare has wonderful documentation, they even provide 3D models of their products for download!
 
