@@ -49,7 +49,9 @@ All this should work in theory, but now I have another small problem - I've run 
 
 ### Total time ~4h
 
-# 28-06-2025 - Finalizing Part Choices, 3D Printer Parts Design
+# 28-06-2025 - Finalizing Component Choices, Design for 3D Print
 
 The audio setup should now be pretty much set. I chose a different driver due to the old one being way too expensive with shipping. I also figured that I don't need to worry about the speaker amp taking up a USB port as I can just get 5V from the Pi GPIO. I also picked out the display I'm going to use. It's a QLED IPS panel from Waveshare, a pricier option as far as 7" panels go, but it's the cheapest option I've found with a half decent color gamut. Also, Waveshare has wonderful documentation, they even provide 3D models of their products for download!
+
+I also spent some time figuring out how everything would be connected together. 3D printed base with standoffs, which would be glued to the bottom of the case, would hold most components. For the front panel (the thing that the screen and speaker driver are glued to) would be made of plywood with a 3D printed pillar going down to the base into which it would be screwed into.
 
