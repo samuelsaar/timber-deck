@@ -55,3 +55,4 @@ The audio setup should now be pretty much set. I chose a different driver due to
 
 I also spent some time figuring out how everything would be connected together. 3D printed base with standoffs, which would be glued to the bottom of the case, would hold most components. For the front panel (the thing that the screen and speaker driver are glued to) would be made of plywood with a 3D printed pillar going down to the base into which it would be screwed into.
 
+### Total time ~5h
