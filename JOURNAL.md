@@ -79,7 +79,7 @@ Was busy with other things so I couldn't work on the project.
 
 ### Total time 0h
 
-# 01-06-2025
+# 01-06-2025 - Catching up, Making a BOM, Hello KiCad
 
 Started the day off by logging in the last 2 days that I had missed to document.
 
