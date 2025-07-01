@@ -57,7 +57,7 @@ I also spent some time figuring out how everything would be connected together. 
 
 ### Total time ~5h
 
-# 29-06-2025
+# 29-06-2025 - Lot of something
 
 Quite a productive day this time, I started with a quick fitment check of the Pi 5 and a couple of the cables I'll be using in the build. The DAC connected to the USB port came with a Razer headset that broke some time ago. The HDMI extension is the official one that Raspberry Pi offers, as one can see from the picture, I have made certain.. modifications to make it more flexible.
 
