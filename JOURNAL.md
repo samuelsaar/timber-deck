@@ -69,6 +69,8 @@ Spent a bunch time on designing the 3D printable parts and figuring out how comp
 
 I also finalized some part choices and ordered a couple cheaper ones from Aliexpress that would take a longer time to arrive and I figured I would've had to buy with my own money anyways. Specifically, the internal HDMI cable to connect the display to the Pi, a panel mount ethernet extension and the amplifier board for the speaker.
 
+### Total time ~7h
+
 # 30-06-2025 - Lot of nothing
 
 Was busy with other things so I couldn't work on the project.
