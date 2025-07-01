@@ -56,3 +56,25 @@ The audio setup should now be pretty much set. I chose a different driver due to
 I also spent some time figuring out how everything would be connected together. 3D printed base with standoffs, which would be glued to the bottom of the case, would hold most components. For the front panel (the thing that the screen and speaker driver are glued to) would be made of plywood with a 3D printed pillar going down to the base into which it would be screwed into.
 
 ### Total time ~5h
+
+# 29-06-2025
+
+Quite a productive day this time, I started with a quick fitment check of the Pi 5 and a couple of the cables I'll be using in the build. The DAC connected to the USB port came with a Razer headset that broke some time ago. The HDMI extension is the official one that Raspberry Pi offers, as one can see from the picture, I have made certain.. modifications to make it more flexible.
+
+![IMG_8455](https://github.com/user-attachments/assets/dbb3a763-d182-4b65-8970-b0b7fad61bfa)
+
+Spent a bunch time on designing the 3D printable parts and figuring out how components would be mounted. I also did a quick test print of the standoffs for the Pi to test out tolerances and heat-set inserts (a first for me, I've always used nuts or resorted to use hot glue before). The test was mostly succsessful, but I noticed that the pi wouldn't sit quite flush on the standoffs as some small resistors and the like on the bottom of the pi were interfering with the print so I made some slight adjustments to the standoffs in cad.
+
+![IMG_8461](https://github.com/user-attachments/assets/0c7f76f7-c3d9-4a4d-a377-450f6eb19775)
+
+I also finalized some part choices and ordered a couple cheaper ones from Aliexpress that would take a longer time to arrive and I figured I would've had to buy with my own money anyways. Specifically, the internal HDMI cable to connect the display to the Pi, a panel mount ethernet extension and the amplifier board for the speaker.
+
+# 30-06-2025 - Lot of nothing
+
+Was busy with other things so I couldn't work on the project.
+
+### Total time 0h
+
+# 01-06-2025
+
+Started the day off by logging in the last 2 days that I had missed to document.
