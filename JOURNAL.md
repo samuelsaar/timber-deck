@@ -82,3 +82,8 @@ Was busy with other things so I couldn't work on the project.
 # 01-06-2025
 
 Started the day off by logging in the last 2 days that I had missed to document.
+
+Next up I made some sort of BOM, it obviously needs some work as I'm currently going over budget so I'll have to decide which parts I want to fund myself.
+
+![Screenshot From 2025-07-01 18-07-57](https://github.com/user-attachments/assets/3b47ed7f-e25a-4830-93f1-66e0d5ba2363)
+
