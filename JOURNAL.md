@@ -87,3 +87,8 @@ Next up I made some sort of BOM, it obviously needs some work as I'm currently g
 
 ![Screenshot From 2025-07-01 18-07-57](https://github.com/user-attachments/assets/3b47ed7f-e25a-4830-93f1-66e0d5ba2363)
 
+Spent rest of the day and half the night learning PCB design and KiCad, mostly following the wonderful [guide]([url](https://www.youtube.com/watch?v=8WXpGTIbxlQ)) by Joe Scotto. Still have some work to do on the PCB design, but it's most of the way there.
+
+![Screenshot From 2025-07-02 01-50-12](https://github.com/user-attachments/assets/067a6997-be40-4c05-a136-c81b4c5f8646)
+
+### Total time ~4h
