@@ -79,7 +79,7 @@ Was busy with other things so I couldn't work on the project.
 
 ### Total time 0h
 
-# 01-06-2025 - Catching up, Making a BOM, Hello KiCad
+# 01-07-2025 - Catching up, Making a BOM, Hello KiCad
 
 Started the day off by logging in the last 2 days that I had missed to document.
 
@@ -90,5 +90,25 @@ Next up I made some sort of BOM, it obviously needs some work as I'm currently g
 Spent rest of the day and half the night learning PCB design and KiCad, mostly following the wonderful [guide](https://www.youtube.com/watch?v=8WXpGTIbxlQ) by Joe Scotto. Still have some work to do on the PCB design, but it's most of the way there.
 
 ![Screenshot From 2025-07-02 01-50-12](https://github.com/user-attachments/assets/067a6997-be40-4c05-a136-c81b4c5f8646)
+
+### Total time ~4h
+
+# 02-07-2025 - KiCad, POG
+
+Realized that I don't have the room to just slap the Pi Pico on the back of the PCB as I use through-hole components, so I spent some time figuring out a solution. I hoped that I could still mount the Pico inside the keyboard half somehow and just hand wire it to the pads that it'd be otherwise soldered to. The day was scorching hot so I didn't have the energy to actually implement that.
+
+I also wanted to figure out how I'm gonna implement the firmware. QMK seems to support it, but when I wanted to use it and followed the documentation, I discovered that while the Pi Pico is supported, it isn't particularly well documented so I couldn't really wrap my head around how to use QMK. Then I looked into KMK and found a tool called [POG](https://pog.heaper.de/) which supposedly simplifies the Firmware writing process by offering a GUI tool for it. Seems like a great option and I'm probably going to go with it as the project is already quite complicated and I'm not sure if I have the time to figure out how to write firmware from scratch. 
+
+### Total time ~3h
+
+# 02-07-2025 - Finishing the PCB
+
+I came back to the PCB design and figured out that there really isn't room for the Pico in the keyboard half of the deck, so I decided to implement a row of pads on the keyboard PCB to which I can solder a ribbon cable to, the other end of which will be soldered to the corresponding GPIO and ground pads on the Pico that's housed in the other half of the deck. That meant I had to redo the Pi Pico footprint nearly from scratch in KiCad, but I'm glad I did as it gave me a deeper understanding of how to use the software. I also wired all the rows and columns up to the pads on the PCB and added some mounting holes. 
+
+![Screenshot From 2025-07-03 22-15-41](https://github.com/user-attachments/assets/4b853b6f-62f4-4926-8eac-8a6fc477c9ff)
+
+All this took way longer than I had expected, and KiCad is kind of prone to crashing which has been a bit annoying. Though that might be due to me being on Wayland, KiCad devs are a bit infamous for refusing to implement proper Wayland support. 
+
+![Screenshot From 2025-07-03 22-13-55](https://github.com/user-attachments/assets/833322ab-4045-4cb1-aac4-06223c6e91f5)
 
 ### Total time ~4h
