@@ -101,7 +101,7 @@ I also wanted to figure out how I'm gonna implement the firmware. QMK seems to s
 
 ### Total time ~3h
 
-# 02-07-2025 - Finishing the PCB
+# 03-07-2025 - Finishing the PCB
 
 I came back to the PCB design and figured out that there really isn't room for the Pico in the keyboard half of the deck, so I decided to implement a row of pads on the keyboard PCB to which I can solder a ribbon cable to, the other end of which will be soldered to the corresponding GPIO and ground pads on the Pico that's housed in the other half of the deck. That meant I had to redo the Pi Pico footprint nearly from scratch in KiCad, but I'm glad I did as it gave me a deeper understanding of how to use the software. I also wired all the rows and columns up to the pads on the PCB and added some mounting holes. 
 
@@ -112,3 +112,17 @@ All this took way longer than I had expected, and KiCad is kind of prone to cras
 ![Screenshot From 2025-07-03 22-13-55](https://github.com/user-attachments/assets/833322ab-4045-4cb1-aac4-06223c6e91f5)
 
 ### Total time ~4h
+
+# 04-07-2025 - Nothing
+
+Away from home, coulnd't work on the project.
+
+### Total time 0h
+
+# 05-07-2025 - Nothing Pt.2
+
+Away from home, coulnd't work on the project.
+
+### Total time 0h
+
+# 06-07-2025 - 
