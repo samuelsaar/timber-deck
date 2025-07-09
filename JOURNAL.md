@@ -133,3 +133,9 @@ Home, but tired, didn't work on the project.
 
 # 07-07-2025 - 
 
+
+
+### Total time 2h
+
+# 08-07-2025 - 
+
