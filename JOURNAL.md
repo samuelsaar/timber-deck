@@ -133,9 +133,12 @@ Home, but tired, didn't work on the project.
 
 # 07-07-2025 - 
 
+Figuring out and modeling the 3D printed parts for mounting the Pi Pico and keyboard pcb.
 
-
-### Total time 2h
+### Total time ~2h
 
 # 08-07-2025 - 
 
+Pretty much finishing the 3D model.
+
+### Total time ~2h
