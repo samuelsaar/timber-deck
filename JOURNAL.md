@@ -57,7 +57,7 @@ I also spent some time figuring out how everything would be connected together. 
 
 ### Total time ~5h
 
-# 29-06-2025 - Lot of something
+# 29-06-2025 - Lot of Something
 
 Quite a productive day this time, I started with a quick fitment check of the Pi 5 and a couple of the cables I'll be using in the build. The DAC connected to the USB port came with a Razer headset that broke some time ago. The HDMI extension is the official one that Raspberry Pi offers, as one can see from the picture, I have made certain.. modifications to make it more flexible.
 
@@ -73,7 +73,7 @@ I also finalized some part choices and ordered a couple cheaper ones from Aliexp
 
 ### Total time ~7h
 
-# 30-06-2025 - Lot of nothing
+# 30-06-2025 - Lot of Nothing
 
 Was busy with other things so I couldn't work on the project.
 
@@ -131,14 +131,32 @@ Home, but tired, didn't work on the project.
 
 ### Total time 0h
 
-# 07-07-2025 - 
+# 07-07-2025 - Keyboard Mounting
 
-Figuring out and modeling the 3D printed parts for mounting the Pi Pico and keyboard pcb.
+Figuring out and designing the 3D printed parts used for mounting the Pi Pico and keyboard pcb.
+
+### Total time ~2h
+
+# 08-07-2025 - Last of CAD
+
+Mostly finishing the CAD stuff - creating the mounting points for display driver board, figuring out the path and placement for the keyboard ribbon cable and a couple other small refinements.
 
 ### Total time ~2h
 
-# 08-07-2025 - 
+# 09-07-2025 - Return of Nothing
 
-Pretty much finishing the 3D model.
+Once again, away from home, couldn't work on the thing.
 
-### Total time ~2h
+### Total time 0h
+
+# 10-07-2025 - NVM, There's Still More CAD
+
+Guess what, keyboards (generally) need a plate too! Go figure. So I had to fire Blender up again and model a plate. Will probably have to get my hands on a bigger printer as I don't really want to print this in two pieces. 
+
+<img width="1590" height="922" alt="Screenshot From 2025-07-11 00-13-14" src="https://github.com/user-attachments/assets/b5193857-f334-4223-87a7-566a14dae0b5" />
+
+It also occured to me that I need a mono signal for the internal speaker so I went looking for a solution. Fortunately, it seems to be fairly simple to just add the left and right audio signals together, I just need two 1k resistors.
+
+![stereo_to_mono](https://github.com/user-attachments/assets/e232f15c-486c-4552-8a84-9a93f6dfd445)
+
+
