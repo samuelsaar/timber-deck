@@ -159,4 +159,7 @@ It also occured to me that I need a mono signal for the internal speaker so I we
 
 ![stereo_to_mono](https://github.com/user-attachments/assets/e232f15c-486c-4552-8a84-9a93f6dfd445)
 
+Hoping to finish the BOM and upload all the CAD files in the comind couple days.
+
+### Total time ~2h
 
