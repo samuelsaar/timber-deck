@@ -167,3 +167,24 @@ Hoping to finish the BOM and upload all the CAD files in the comind couple days.
 
 ### Total time ~2h
 
+# 11-07-2025 - Disaster Strikes!
+
+So I reached out to a friend who has a bigger 3D printer and he got the plate printed by today - way faster than I expectd TBH. But when I went to test fit it, it didn't quite fit the way it was supposed to which made me recheck the dimension of my CAD case and there was the probelm - I had made the case a centimeter too wide. Quite unfortunate, but not project-ruining, I just need to adjust most of the models a little bit.
+
+I didn't feel like working on CAD today, so I just touched up the BOM a bit and that's it.
+
+### Total time ~1h
+
+# 12-07-2025 - Fixin'
+
+Fixed all the dimensions of the CAD models, this didn't fortunately cause any real problems. The only thing that might be of slight concern, is that the display controller board has to stick under the Raspberry Pi a little bit, but there should be enough clearance and it shouldn't be a problem.
+
+### Total time ~2h
+
+# 13-07-2025 - Finishing touches
+
+Modified a couple more 3D models' dimensions that I had missed yesterday. I realized that I now don't have the room to mount switches on the inside of the case as I had originally hoped. Guess they'll have to go on the side of the case then. 
+
+I also double checked all the other components, especially the 3D printed parts. I'll try to complete the BOM and upload all the relevant files tomorrow and submit this project.
+
+### Total time ~2h
