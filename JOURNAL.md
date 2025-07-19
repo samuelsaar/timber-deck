@@ -188,3 +188,40 @@ Modified a couple more 3D models' dimensions that I had missed yesterday. I real
 I also double checked all the other components, especially the 3D printed parts. I'll try to complete the BOM and upload all the relevant files tomorrow and submit this project.
 
 ### Total time ~2h
+
+
+# 14-07-2025 - Sidetracked
+
+Got a game idea and spent the entire day working on that.
+
+### Total time 0h
+
+# 15-07-2025 - Sidetracked Pt.2
+
+Came a bit obsessed with the game so there went another day
+
+### Total time 0h
+
+# 16-07-2025 - Sidetracked Pt.3
+
+Same old
+
+### Total time 0h
+
+# 17-07-2025 - Sidetracked Pt.4
+
+Remembered that I needed to work on the deck, but procrastinated and just worked on the game
+
+### Total time 0h
+
+# 18-07-2025 - Sidetracked Pt.5
+
+Nothing to say, pure procrastination ig.
+
+### Total time 0h
+
+# 19-07-2025 - Back on track
+
+
+
+
