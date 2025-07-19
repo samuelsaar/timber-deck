@@ -230,7 +230,7 @@ Welp, there went a week
 | Keycaps  | 57  | x  | 0  | Owned  |
 | Switches  | 57  | x  | 0  | Owned  |
 | Diodes  | 57  | x  | 0  | Owned  |
-| Wires  | Many  | x  | 0  | Owned  |
+| Wires  | x  | x  | 0  | Owned  |
 | Heat-Set Inserts  | 16  | x  | 0  | Owned  |
 | 3D Filament  | x  | x  | 0  | Owned  |
 | Rasperry Pi Pico  | 1  | x  | 0  | Owned  |
